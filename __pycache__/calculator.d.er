@@ -1,0 +1,7 @@
+##[pylyzer] succeed /users/vidhangupta/documents/python/calculator.py 1740680414 141
+.main: () -> NoneType
+.square: (x: Int) -> Int
+
+
+
+

@@ -1,0 +1,10 @@
+##[pylyzer] failed /users/vidhangupta/documents/python/say.py 1740234924 91
+.sys: Never
+
+.cowsay = pyimport "__init__"
+.__init__ = pyimport "__init__"
+
+
+
+
+

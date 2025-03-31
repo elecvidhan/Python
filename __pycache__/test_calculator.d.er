@@ -1,0 +1,5 @@
+##[pylyzer] failed /users/vidhangupta/documents/python/test_calculator.py 1740680222 58
+.___v_desugar_1 = pyimport "calculator"
+.calculator = pyimport "calculator"
+.square: (x: Int) -> Int
+.main: () -> NoneType
