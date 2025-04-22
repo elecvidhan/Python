@@ -1,1 +1,1 @@
-#This is all the Exercise Files in CS50 Python Course.
+# This is all the Exercise Files in CS50 Python Course.
