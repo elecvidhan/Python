@@ -3,7 +3,7 @@ import random
 class Hat:
     houses = ["Gryffindor", "Huffelpuff", "Ravenclaw", "Slytherin"]
 
-    @classmethod
+    @classmethod 
     def sort(cls, name):
         print(name, "is in", random.choice(cls.houses))
 
